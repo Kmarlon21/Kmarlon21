@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Marlon, an aspiring web developer.<br><br>💻 Skills:<br><br>Basic knowledge of HTML and CSS to create simple web pages.<br><br>🎯 Goals:<br><br>Learn more about JavaScript and backend development to become a Full-Stack Developer.<br><br></p>
+<p align="left">👋 Olá! Eu sou Marlon, um aspirante a desenvolvedor web e futuro Full-Stack Developer.<br><br>💻 Skills:<br><br>Conhecimento básico de HTML e CSS para criar páginas da web simples.<br><br></p>
 
 ###
 
