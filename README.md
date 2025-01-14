@@ -44,7 +44,7 @@
   <a href="https://discord.com/users/seu_usuario" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="kaiquefraday@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="Kaiquefraday@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/kaique-marlon-80580b33a/" target="_blank" rel="noopener noreferrer">
