@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá! Eu sou Marlon, um aspirante a desenvolvedor web e futuro Full-Stack Developer.<br><br>💻 Skills:<br><br>Conhecimento básico de HTML e CSS para criar páginas da web simples.<br><br></p>
+<p align="left">👋 Olá! Eu sou Marlon, estudante de TI.<br><br>💻 Skills:<br><br>Conhecimento básico de HTML e CSS para criar páginas da web simples.<br><br></p>
 
 ###
 
